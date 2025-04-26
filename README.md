@@ -59,6 +59,7 @@ React
    ` npm start server`
 	##### frontend
     `npm install`
+    `npm run build`
     `npm run start`
 Таким образом, каждая консоль будет отвечать за отдельный процесс.
 
